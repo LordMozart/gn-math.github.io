@@ -25,6 +25,7 @@ gn-math is the best unblocked games site to play at school.
   - webfishing
   - bfdi: branches
   - deltarune (ch. 1-4)
+  - Grandpa's Life support simulator 2000 edition
 - static site so easily deployable
 - works in file:
 - custom software to get almost ANY game
